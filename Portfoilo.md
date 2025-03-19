@@ -27,7 +27,7 @@
 >
 # Remaked Code
 > I want to add some more features like stop the moemt and let you to capture the moment
-[image](https://github.com/user-attachments/assets/980e82e0-3624-4d45-aebf-0494a7eb4726)
+![image](https://github.com/user-attachments/assets/980e82e0-3624-4d45-aebf-0494a7eb4726)
 > This is the frontal page that nothing work on
 > 
 > I make the buttons go down by Trained model for seperate the button function
@@ -44,10 +44,10 @@
 >
 > 
 # Working Process
-[image](https://github.com/user-attachments/assets/5de664df-7032-4fb4-9322-6d03f7373159)
+![image](https://github.com/user-attachments/assets/5de664df-7032-4fb4-9322-6d03f7373159)
 > It work same as the Original code
 > 
-[image](https://github.com/user-attachments/assets/0cd66b69-aba1-42c7-9a99-97b7dcc0aae0)
+![image](https://github.com/user-attachments/assets/0cd66b69-aba1-42c7-9a99-97b7dcc0aae0)
 > and the Capture feature works well
 > 
 > The Capture file will be placed on the same diractory where the code file located
