@@ -34,7 +34,7 @@
 > 
 > And added Detected objects feature to make user can know how many things tha Opencv detected
 > 
-> Know let's see the button features
+> Now let's see the button features
 > 
 > ## Start : As you know, It make you to run this progam
 > 
