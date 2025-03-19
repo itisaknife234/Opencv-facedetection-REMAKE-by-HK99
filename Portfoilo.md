@@ -64,7 +64,11 @@
 # ETC
 > If you make a exe file by PyInstaller, the folder named "haarcascades" will automatically generated
 >
-> Download the haarcascade files and place in it
+![image](https://github.com/user-attachments/assets/9c53ddf3-6f1c-4a95-9c62-bd250225f191)
+>
+>Like this
+>
+> Then, download the haarcascade files and place in it
 >
 > Then the Model will appear
 
