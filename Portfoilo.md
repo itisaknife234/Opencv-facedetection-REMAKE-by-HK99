@@ -66,8 +66,6 @@
 >
 ![image](https://github.com/user-attachments/assets/9c53ddf3-6f1c-4a95-9c62-bd250225f191)
 >
->Like this
->
 > Then, download the haarcascade files and place in it
 >
 ![image](https://github.com/user-attachments/assets/70ce0585-aadc-4c1b-beef-76087fb7ffc5)
