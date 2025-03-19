@@ -70,7 +70,12 @@
 >
 > Then, download the haarcascade files and place in it
 >
+>![image](https://github.com/user-attachments/assets/70ce0585-aadc-4c1b-beef-76087fb7ffc5)
+>
 > Then the Model will appear
+>
+![image](https://github.com/user-attachments/assets/ce124dad-6f41-4785-af29-28b39b30bf4d)
+
 
 
 
