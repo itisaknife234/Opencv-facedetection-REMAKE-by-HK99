@@ -1,22 +1,28 @@
 # Opencv Project Inspired By Qt Company Ltd
 
 > 이형규(Hyeong Gyu Lee) - Hekaton99 project
+> 
 > Inspired by "https://doc.qt.io/qtforpython-6/examples/example_external_opencv.html#example-external-OpenCV"
+> 
 > go check the original code If you are interested in
 >
 > 
 # Intro
 > This project is based on Opencv which use the built-in camera or webcam resources
+> 
 > Original code is the code that make square on the screen(based on camera) object what you want to detect by Opencv
+> 
 > There are lot's of Trained model (based on haarcascade) to detect the object (eye, frontal face, car ...etc)
 >
 # The Original code
 ![image](https://github.com/user-attachments/assets/abb4710f-314d-4411-8d21-7c6b70199eb1)
 > This is the Orignal code that posted
+> 
 > There are simple feature to change the Trained Model, stop/Close and Start
 > 
 ![image](https://github.com/user-attachments/assets/6dbf0392-40d6-45ab-983a-dab4b3eae8f7)
 > Orignal code works well and good at detect the eye
+> 
 > The Lab environment is based on Samsung Galaxy Book2
 >
 # Remaked Code
